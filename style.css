@@ -1,0 +1,42 @@
+.dog{
+    width: 10%;
+}
+.content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #5a86adc2;
+
+}
+.play-paragraph{
+    display: flex;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+.logo{
+    display:flex ;
+    justify-content: center;
+}
+.change{
+    font-weight: bolder;
+    font-size: larger;
+    display: flex;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+h1{
+    color: rgb(204, 50, 178);
+}
+.dog-training{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+
+}
+.wrapper{
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    border: 3px solid  rgb(204, 50, 178);;
+    border-radius: 10px  ;
+}
